@@ -1,7 +1,7 @@
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmSecundario&layout=compact&theme=cobalt"/>
-  <img paddin-right="2px" height="100em" src="https://github-readme-stats.vercel.app/api?username=UmSecundario&show_icons=true&theme=cobalt"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=UmSecundario&show_icons=true&theme=cobalt"/>
 </div>
  
  <div>
