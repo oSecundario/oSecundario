@@ -1,4 +1,7 @@
-
+<div>
+  <h3>Hello Word!</h3>
+  <p>Meu nome é William Silveira de Souza e atualmente estudo programação para que um dia no futuro eu possa trabalhar e ensinar algo que eu amo <3</p>
+</div>
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmSecundario&layout=compact&theme=synthwave"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=UmSecundario&show_icons=true&theme=synthwave"/>
